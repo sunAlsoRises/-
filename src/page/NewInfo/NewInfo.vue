@@ -2,7 +2,7 @@
     <div class="newinfo news-list">
         <div class="left  col-lg-8 col-md-8 col-xs-12 col-sm-12">
             <div class="jumbotron">
-                <img class="img-responsive" src="./img/timg.jpg">
+                <img class="img-responsive" src="./img/w1.jpg">
             </div>
             <section class="page-content-container main-content" id="main-content">
                 <section id="breadcrumb-wrapper" class="page-level breadcrumb-wrapper">
