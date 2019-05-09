@@ -9,4 +9,7 @@
    当页面进行滑动时 三个板块的tap就会弹出 指引用户点入三个板块
    因为是静态页面  页面中所有点击a标签都是静态无效的
    
-   致敬 : 牛津大学, 哈佛大学, vue技术
+ 操作
+   下载依赖 npm i
+  运行   vue-cli-service server
+  打包  vue-cli-service build
